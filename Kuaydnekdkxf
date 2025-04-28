@@ -1,1 +1,1 @@
-return SYNAPSE.LUA
+return "SYNAPSE.LUA"
